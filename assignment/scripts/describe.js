@@ -26,7 +26,7 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// Make a variable called name and set its value as "Dane"
+// Declare a variable name and set its value as "Dane"
 // We check if variable name is equal to "Mary". 
 // If name variable is equal to "Mary", we console log "Hi, Mary!"
 // If name variable is not equal to "Mary", we console log "How do you do?"
@@ -121,7 +121,7 @@ let number = 1;
 
 // FIX - number-- decrements number, but the instructions ask to increment. 
 // Should be number++.
-number--; 
+number++; 
 
 if (number >= 2) {
   console.log('yes');
