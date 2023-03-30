@@ -110,7 +110,7 @@ if (isStudent === true && zip > 80000 ) {
 
 // EXAMPLE
 // 0. (DESCRIPTION OF CORRECT BEHAVIOR)
-// We make a variable called number and set it to 1 as a number.
+// We make a variable called number and set it equal to 1.
 // Then we increment the number variable. Number is now 2.
 // We check if number is greater than or equal to 2. 
 // -- it is, so we console.log 'yes'
@@ -131,9 +131,9 @@ if (number >= 2) {
 
 
 
-//4. We start with three variables -- colorOne is set to 'blue' and 
-// colorTwo is set to 'red', and mix is set to true. We check if mix is true 
-// -- it is, so we set colorOne and colorTwo to 'purple'
+//4. We start with three variables -- colorOne is equal to 'blue' and 
+// colorTwo is equal to 'red', and mix is equal to true. We check if mix is true 
+// -- it is, so we set colorOne and colorTwo to equal 'purple'
 
 /*
 let colorOne = 'blue';
@@ -145,7 +145,7 @@ if (mix === true) {
 }
 */
 
-//5. We start with two variables -- temp is set to 40 and time is set to 4.
+//5. We start with two variables -- temp is equal to 40 and time is equal to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
 
